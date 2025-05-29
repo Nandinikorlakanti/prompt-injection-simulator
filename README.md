@@ -6,7 +6,7 @@ This simulator tests how an AI language model (Google Gemini 2.0 Flash Lite) han
 
 The simulator includes a **Safe Mode** that pre-checks user prompts for risky patterns (e.g., "ignore", "bypass", "forget previous") and blocks them before sending to the AI. This protects against common prompt injection attacks.
 
----
+--
 
 ## Features
 
